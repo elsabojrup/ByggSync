@@ -1,0 +1,17 @@
+# .NET Core
+bin/
+obj/
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio
+.vs/
+*.user
+
+# SQLite
+*.db
+questions.db-shm
+questions.db-wal
+
+# Logger 
+*.log

@@ -1,0 +1,6 @@
+@QuestionManagementAPI_HostAddress = http://localhost:5031
+
+GET {{QuestionManagementAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
